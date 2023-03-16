@@ -4,13 +4,13 @@ Search for a keyword on Google Search, then scrape each results to get the websi
 # Installation
 `
 git clone https://github.com/FlorianMgs/email_scraper.git
-`
+`  
 `
 python -m venv venv
-`
+`  
 `
 pip install -r requirements.txt
-`
+`  
 `
 python main.py
 `
